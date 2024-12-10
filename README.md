@@ -1,2 +1,2 @@
 # UnityWebGLModel
-Interactive Solskin facade
+Interactive Solskin model for website
