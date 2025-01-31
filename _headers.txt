@@ -1,4 +1,0 @@
-/Build/*
-  Content-Encoding: gzip
-  Cache-Control: public, max-age=31536000
-  Content-Type: application/javascript
